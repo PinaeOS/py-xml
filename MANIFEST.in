@@ -1,0 +1,4 @@
+graft py_xml
+graft py_xml_test
+include *.md *.rst *.cfg
+global-exclude *.pyc
